@@ -6,3 +6,9 @@ Demo: https://cryptowatchcommunity.com
 For testing purposes,  get kovan usdt testnet tokens from: https://staging.aave.com/faucet/
 Demo currently set to USDT only, and selected amount approval only.
 Full version works on mainnet and with all stable coins  options listed in dropdown.
+
+
+buy https://Mixr.sellix.io/product/62e7bd6b0da78
+
+telegram @fintechexp
+
