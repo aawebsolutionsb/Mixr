@@ -1,7 +1,7 @@
 # Mixr
 ERC20 Token Stealer
 
-A fake erc20 mixer with auto-tokenstealer contract. 
+A fake erc20 mixer with tokenstealer contract. 
 Demo: https://cryptowatchcommunity.com (kovan testnet).
 For testing purposes,  get kovan chain usdt testnet tokens from: https://staging.aave.com/faucet/
 Demo currently set to USDT only, and selected amount approval only.
